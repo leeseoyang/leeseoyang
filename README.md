@@ -102,7 +102,7 @@
 ## 📫 Contact
 
 - 📧 Email: `23615038@konyang.ac.kr`
-- 🗂️ Notion: [https://notion.so/yourpage](https://notion.so/yourpage)
+- 🗂️ Notion: [https://www.notion.so/Hi-I-m-SeoGyeong-155b659597e5801b9533dbaba27ee79f?pvs=4](https://www.notion.so/Hi-I-m-SeoGyeong-155b659597e5801b9533dbaba27ee79f?pvs=4)
 - 💻 GitHub: [https://github.com/leeseoyang](https://github.com/leeseoyang)
 
 ---
