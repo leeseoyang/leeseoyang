@@ -52,7 +52,7 @@
 > `"사과"`라고 말하면 알티노 자동차가 전진하는 음성 제어 시스템  
 > ✅ `speech_recognition`, `PySerial`, `Toga` GUI 기반  
 
-🔗 [View Repository](https://github.com/leeseoyang/altino-voice-control)
+🔗 [View Repository](https://github.com/leeseoyang/Altino.git)
 
 ---
 
