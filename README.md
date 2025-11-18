@@ -18,7 +18,7 @@
 - 🎓 전공: **의료IT공학과**, 건양대학교  
 - 💡 관심 분야: Medical AI, Image Classification, App Inventor Healthcare  
 - 🛠️ 사용 기술: Python, TensorFlow, PyTorch, YOLOv5, PyQt, App Inventor  
-- 🏆 다양한 프로젝트 및 공모전 참여 경험 보유  
+- 🏆 다양한 프로젝트 및 공모전 참여 경험
 - 💬 슬로건: **“AI로 세상을 따뜻하게 만드는 개발자”**
 
 ---
@@ -42,7 +42,8 @@
 ### 🩺 Sinusitis Diagnosis AI (2025)
 > X-ray 기반 부비동염 4클래스 분류 시스템  
 > ✅ class불균형 해결 + 커스텀 CNN 분류 + Grad-CAM 시각화  
-> ✅  8클래스로 확장중중
+> ✅  8클래스로 확장중
+> ✅  4클래스로 임상 논문 준비중
 
 🔗 [View Repository](https://github.com/leeseoyang/sinusitis-ai)
 
@@ -72,6 +73,8 @@
 | 🥈 우수상 | 가천대학교 공학교육혁신센터 | 2024.05.26 | 삼단조팀, 창의융합설계 경진대회 아이디어 수상 |
 | 🥉 동상 | 성균관대학교                 | 2024.01.19 | 의료서비스 디자인 프로젝트 – 공간 활용 디자인 |
 | 🥈 우수상 | 건양대학교                  | 2023.12.20 | 2023 헬스케어 창의아이디어 캠프 팀 우수상 |
+| 🥉 우수상 | 건양대학교                  | 2025.10.23 | 2025 캡스톤 디자인 경진대회 동상 |
+| 🥈 은상 | 순천향대학교                  | 2025.06.27 | 2025 AI X Design Thinking CAMP 은상 |
 
 ---
 
